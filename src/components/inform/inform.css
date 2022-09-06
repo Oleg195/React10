@@ -1,0 +1,23 @@
+.inform{padding: 135px 0px; font-size:56px;background-position: center;}
+.sl{padding: 56px; color:white ;}
+.inform{background-image: url(https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/blt69459fd45cf9dde4/5f2dd6b88ea4aa55f2329d53/careers-5.webp?auto=webp);
+    background-size: cover;}
+    h3{font-size: 40px;}
+h2{font-size: 68px;}
+p{font-size: 16px;}
+
+.list{
+    height: 242px;
+    background: #f0f0f0;}
+
+
+    .b-games-features__list-item-ico {
+        position: absolute;
+        top: 40px;
+        left: 50%;}
+
+.b-games-features__list-item-ico_2 {
+            width: 60px;
+            height: 60px;
+            background: url(https://gamenet.ru/images/0.5/sprite-games.png) 0 -175px no-repeat;
+            margin-left: -30px;}
